@@ -1,3 +1,8 @@
 streamlit 
 python-dotenv
 google-generativeai 
+speechrecognition
+pyttsx3
+geopy
+folium
+Pillow
