@@ -1,7 +1,7 @@
 streamlit 
 python-dotenv
 google-generativeai 
-speechrecognition
+sr
 pyttsx3
 geopy
 folium
